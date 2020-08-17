@@ -7,8 +7,9 @@
 ## 동아리
 ### Cat & Dog
 #### STUDY
-* [2019-1 언리얼 스터디](https://drive.google.com/drive/folders/1E7-OGaQkoBw-kWEQlxovAhyTaCudoY1H?usp=sharing) 진행
-* [2019-2 언리얼 스터디](https://github.com/jin5866/Unreal4Study2019) 진행.
+* [2019-1 언리얼 스터디](https://drive.google.com/drive/folders/1E7-OGaQkoBw-kWEQlxovAhyTaCudoY1H?usp=sharing)
+* [2019-2 언리얼 스터디](https://github.com/jin5866/Unreal4Study2019)
+* [2020 여름 언리얼 CPP 스터디](https://github.com/jin5866/2020SummerUnrealCpp)
 
 #### GAME
 
