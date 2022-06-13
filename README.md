@@ -1,7 +1,18 @@
 ### Hi there 👋
-
-<!--
 # jin5866
+
+## Project
+
+### 2016
+[TankProject](https://github.com/jin5866/TankProject)
+
+### 2017
+[약겜](https://github.com/jin5866/DrugGameProject)
+
+### 2021
+[CG과제](https://github.com/jin5866/2021-1-CG2)
+<!--
+
 
 
 ## 동아리
