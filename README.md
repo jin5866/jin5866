@@ -4,14 +4,14 @@
 ## Project
 
 ### 2016
-[TankProject](https://github.com/jin5866/TankProject)
+* [TankProject](https://github.com/jin5866/TankProject)
 
 ### 2017
-[약겜](https://github.com/jin5866/DrugGameProject)
+* [약겜](https://github.com/jin5866/DrugGameProject)
 
 ### 2021
-[CG과제](https://github.com/jin5866/2021-1-CG2)
-[카톡 파일 확장자 분류](https://github.com/jin5866/KakaoTalkContentsClassifier)
+* [CG과제](https://github.com/jin5866/2021-1-CG2)
+* [카톡 파일 확장자 분류](https://github.com/jin5866/KakaoTalkContentsClassifier)
 <!--
 
 
