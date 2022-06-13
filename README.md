@@ -8,6 +8,7 @@
 
 ### 2017
 * [약겜](https://github.com/jin5866/DrugGameProject)
+* [DB 텀 프로젝트](https://github.com/jin5866/DataBaseTerm2017)
 
 ### 2021
 * [CG과제](https://github.com/jin5866/2021-1-CG2)
