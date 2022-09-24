@@ -15,7 +15,7 @@
 * [IEKAI](https://github.com/jin5866/ISEKAI-release)
 
 ### 2021
-* [CG과제](https://github.com/jin5866/2021-1-CG2)
+* [CG 텀 프로젝트](https://github.com/jin5866/2021-1-CG2)
 * [카톡 파일 확장자 분류](https://github.com/jin5866/KakaoTalkContentsClassifier)
 * [카톡 차단](https://github.com/jin5866/KakaoBlocker)
 
