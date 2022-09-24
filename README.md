@@ -12,7 +12,7 @@
 * [던파 아이템 조회](https://github.com/jin5866/DnFItemLookUp)
 
 ### 2019
-* [IKEKAI](https://github.com/jin5866/ISEKAI-release)
+* [IEKAI](https://github.com/jin5866/ISEKAI-release)
 
 ### 2021
 * [CG과제](https://github.com/jin5866/2021-1-CG2)
