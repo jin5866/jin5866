@@ -11,7 +11,7 @@
 * [약겜](https://github.com/jin5866/DrugGameProject)
     * 유니티 c#
 * [DB 텀 프로젝트](https://github.com/jin5866/DataBaseTerm2017)
-    * c#, php
+    * c#, php, sql
 * [던파 아이템 조회](https://github.com/jin5866/DnFItemLookUp)
     * 안드로이드
 
