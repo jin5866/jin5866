@@ -12,7 +12,10 @@
 * [던파 아이템 조회](https://github.com/jin5866/DnFItemLookUp)
 
 ### 2019
-* [IEKAI](https://github.com/jin5866/ISEKAI-release)
+* [ISEKAI](https://github.com/jin5866/ISEKAI-release)
+
+### 2020
+* [RubyTextBlock](https://github.com/jin5866/RubyTextBlock)
 
 ### 2021
 * [CG 텀 프로젝트](https://github.com/jin5866/2021-1-CG2)
