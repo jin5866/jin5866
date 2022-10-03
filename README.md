@@ -12,7 +12,7 @@
 * [던파 아이템 조회](https://github.com/jin5866/DnFItemLookUp)
 
 ### 2018
-* [약겜2](https://github.com/jin5866/DrugGame2)
+* [약겜2](https://github.com/jin5866/DrugGame2) - 취소됨.
 
 ### 2019
 * [ISEKAI](https://github.com/jin5866/ISEKAI-release)
