@@ -5,25 +5,35 @@
 
 ### 2016
 * [TankProject](https://github.com/jin5866/TankProject)
+    * 유니티 c#
 
 ### 2017
 * [약겜](https://github.com/jin5866/DrugGameProject)
+    * 유니티 c#
 * [DB 텀 프로젝트](https://github.com/jin5866/DataBaseTerm2017)
+    * c#, php
 * [던파 아이템 조회](https://github.com/jin5866/DnFItemLookUp)
+    * 안드로이즈
 
 ### 2018
 * [약겜2](https://github.com/jin5866/DrugGame2) - 취소됨.
+    * 언리얼
 
 ### 2019
 * [ISEKAI](https://github.com/jin5866/ISEKAI-release)
+    * 언리얼
 
 ### 2020
 * [RubyTextBlock](https://github.com/jin5866/RubyTextBlock)
+    * 언리얼 c++
 
 ### 2021
 * [CG 텀 프로젝트](https://github.com/jin5866/2021-1-CG2)
+    * c++ opengl
 * [카톡 파일 확장자 분류](https://github.com/jin5866/KakaoTalkContentsClassifier)
+    * python
 * [카톡 차단](https://github.com/jin5866/KakaoBlocker)
+    * python
 
 
 
