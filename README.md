@@ -13,7 +13,7 @@
 * [DB 텀 프로젝트](https://github.com/jin5866/DataBaseTerm2017)
     * c#, php
 * [던파 아이템 조회](https://github.com/jin5866/DnFItemLookUp)
-    * 안드로이즈
+    * 안드로이드
 
 ### 2018
 * [약겜2](https://github.com/jin5866/DrugGame2) - 취소됨.
